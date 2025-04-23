@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeirDev/LeirDev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MayconxDev/MayconxDev/output/snake.svg" alt="Snake animation" />
 
 ###
