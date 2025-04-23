@@ -23,7 +23,7 @@
   <a href="mailto:maycon.ra.santos@gmail.com?subject=Contato%20Profissional&body=Olá%20Maycon,%20gostaria%20de%20conversar%20sobre%20uma%20oportunidade" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="linkedin.com/in/maycon-ryan-alves-dos-santos-67b19a314 telefone" target="_blank">
+  <a href="https://www.linkedin.com/in/maycon-ryan-alves-dos-santos-67b19a314?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bl9r3UWshQ4m%2FtOxvblw5xg%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
